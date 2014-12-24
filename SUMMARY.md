@@ -8,4 +8,5 @@
    * [Security Patrol Service Integration Mechanism](security_patrol_service_integration_mechanism.md)
    * [Rentals Support](rentals_support.md)
    * [Advanced Management](advanced_management.md)
+* Features
 
