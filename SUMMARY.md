@@ -12,4 +12,5 @@
    * [Bluetooth Door Lock](bluetooth_door_lock.md)
    * [Bluetooth Bottle Cage Lock](bluetooth_bottle_cage_lock.md)
    * [Gun Box](gun_box.md)
+   * NFC Door Lock
 
