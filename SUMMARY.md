@@ -25,5 +25,5 @@
        * [Bluetooth Properties Configuration](bluetooth_properties_configuration.md)
    * [NFC Key Setting](nfc_key_setting.md)
        * [NFC Properties Configuration](nfc_properties_configuration.md)
-   * Properties Management
+   * [Properties Management](properties_management.md)
 
