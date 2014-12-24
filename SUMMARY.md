@@ -16,5 +16,5 @@
 * [Download and Install](download_and_install.md)
    * [Android mobile phone](android_mobile_phone.md)
    * [iPhone mobile phone](iphone_mobile_phone.md)
-   * Restricted Region
+   * [Restricted Region](restricted_region.md)
 
