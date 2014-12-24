@@ -27,5 +27,5 @@
        * [NFC Properties Configuration](nfc_properties_configuration.md)
    * [Properties Management](properties_management.md)
    * [Friends List](friends_list.md)
-   * About
+   * [About](about.md)
 
