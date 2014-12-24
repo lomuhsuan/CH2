@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-   * PHONEKEY Platform
+   * [PHONEKEY Platform](phonekey_platform.md)
 
