@@ -19,5 +19,5 @@
    * [Restricted Region](restricted_region.md)
 * [Major Feature](major_feature.md)
    * [True Confirmation](true_confirmation.md)
-   * NFC Lock Operation
+   * [NFC Lock Operation](nfc_lock_operation.md)
 
