@@ -28,4 +28,5 @@
    * [Properties Management](properties_management.md)
    * [Friends List](friends_list.md)
    * [About](about.md)
+   * Social Media
 
