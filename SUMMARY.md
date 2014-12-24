@@ -15,6 +15,6 @@
    * [NFC Door Lock](nfc_door_lock.md)
 * [Download and Install](download_and_install.md)
    * [Android mobile phone](android_mobile_phone.md)
-   * Restricted Region
    * [iPhone mobile phone](iphone_mobile_phone.md)
+   * Restricted Region
 
