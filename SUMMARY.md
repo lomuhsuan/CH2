@@ -17,5 +17,5 @@
    * [Android mobile phone](android_mobile_phone.md)
    * [iPhone mobile phone](iphone_mobile_phone.md)
    * [Restricted Region](restricted_region.md)
-* Major Feature
+* [Major Feature](major_feature.md)
 
