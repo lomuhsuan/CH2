@@ -31,5 +31,5 @@
    * [Social Media](social_media.md)
    * [App Setting](app_setting.md)
 * [Privacy Policy](privacy_policy.md)
-* Terms of Use
+* [Terms of Use](terms_of_use.md)
 
