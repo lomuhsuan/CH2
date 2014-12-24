@@ -10,4 +10,5 @@
    * [Advanced Management](advanced_management.md)
 * [Features](features.md)
    * [Bluetooth Door Lock](bluetooth_door_lock.md)
+   * Bluetooth Bottle Cage Lock
 
