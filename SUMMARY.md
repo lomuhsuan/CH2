@@ -13,5 +13,5 @@
    * [Bluetooth Bottle Cage Lock](bluetooth_bottle_cage_lock.md)
    * [Gun Box](gun_box.md)
    * [NFC Door Lock](nfc_door_lock.md)
-* Download and Install
+* [Download and Install](download_and_install.md)
 
