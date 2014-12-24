@@ -30,5 +30,5 @@
    * [About](about.md)
    * [Social Media](social_media.md)
    * [App Setting](app_setting.md)
-* Privacy Policy
+* [Privacy Policy](privacy_policy.md)
 
