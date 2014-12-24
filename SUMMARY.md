@@ -29,4 +29,5 @@
    * [Friends List](friends_list.md)
    * [About](about.md)
    * [Social Media](social_media.md)
+   * App Setting
 
