@@ -23,5 +23,5 @@
    * [Intelligence Property Management](intelligence_property_management.md)
    * [Bluetooth Key Setting](bluetooth_key_setting.md)
        * [Bluetooth Properties Configuration](bluetooth_properties_configuration.md)
-   * NFC Key Setting
+   * [NFC Key Setting](nfc_key_setting.md)
 
