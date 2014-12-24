@@ -26,5 +26,5 @@
    * [NFC Key Setting](nfc_key_setting.md)
        * [NFC Properties Configuration](nfc_properties_configuration.md)
    * [Properties Management](properties_management.md)
-   * Friends List
+   * [Friends List](friends_list.md)
 
