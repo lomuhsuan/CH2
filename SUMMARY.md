@@ -22,4 +22,5 @@
    * [NFC Lock Operation](nfc_lock_operation.md)
    * [Intelligence Property Management](intelligence_property_management.md)
    * [Bluetooth Key Setting](bluetooth_key_setting.md)
+       * Bluetooth Properties Configuration
 
