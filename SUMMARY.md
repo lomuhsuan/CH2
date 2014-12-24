@@ -20,5 +20,5 @@
 * [Major Feature](major_feature.md)
    * [True Confirmation](true_confirmation.md)
    * [NFC Lock Operation](nfc_lock_operation.md)
-   * Intelligence Property Management
+   * [Intelligence Property Management](intelligence_property_management.md)
 
