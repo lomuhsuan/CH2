@@ -9,4 +9,5 @@
    * [Rentals Support](rentals_support.md)
    * [Advanced Management](advanced_management.md)
 * [Features](features.md)
+   * Bluetooth Door Lock
 
