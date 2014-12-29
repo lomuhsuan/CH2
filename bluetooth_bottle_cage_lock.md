@@ -9,7 +9,7 @@ KADALOCK has “lock removal prevention” as one of the anti-theft feature. The
 #### Theft Alarm
 KADALOCK has motion detection and locking cable detection built in. The 80dB alarm will be activated if the bicycle is moved or the locking cable is cut.
 #### iBeacon Support
-iBeacon broadcast the current position to others. Position of each member in the cycling team can be provided. Many other applications could be provided as necessary.
+iBeacon broadcasts the current position to others. Position of each member in the cycling team can be provided. Many other applications could be provided as necessary.
 #### Low Power Warning
 The lock owner will be notified the low power warning and power status on the App of the mobile phone once the lock gets into low power status.
 #### Energy Saving With Touch Wake Feature
