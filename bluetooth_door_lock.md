@@ -4,7 +4,7 @@
 Unlock can be done by simply touching the deadbolt rose. The lock will be awaken and automatically get the soft-key from the mobile phone in your pocket.
 #### USB Emergency Charging
 While physical key is the only way to resolve out of battery issue in other intelligent door locks, USB emergency charging is additionally provided in ours for future keyless era.
-#### RFID Card Suppot
+#### RFID Card Support
 Two RFID card keys are provided in each package. Additional cards can be purchased as necessary.
 #### Instant Status Display
 A display panel with current status icons is on the lock for instant status inquires.
