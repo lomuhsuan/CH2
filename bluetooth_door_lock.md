@@ -1,7 +1,7 @@
 # Bluetooth Door Lock
 
 #### Touch Unlock
-Unlock can be done by simply touching the deadbolt rose. The lock will be awaken and automatically get the soft-key from the mobile phone in your pocket.
+Unlock can be done by simply touching the deadbolt rose. The lock will be awaken and automatically get the digital-key from the mobile phone in your pocket.
 #### USB Emergency Charging
 While physical key is the only way to resolve out of battery issue in other intelligent door locks, USB emergency charging is additionally provided in ours for future keyless era.
 #### RFID Card Support
